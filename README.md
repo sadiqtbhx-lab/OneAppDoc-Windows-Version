@@ -7,14 +7,16 @@
 ### All Your Apps. One Dock.
 **Multiple accounts, multiple proxies, zero hassle.**
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases)
-[![Latest Release](https://img.shields.io/badge/Release-v1.3.2-6f42c1?style=for-the-badge&logo=github)](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases)
-[![Website](https://img.shields.io/badge/Website-oneappdock.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.oneappdock.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.oneappdock.com/)
+[![Latest Release](https://img.shields.io/badge/Release-v1.3.4-7c3aed?style=for-the-badge&logo=github)](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases)
+[![Direct Website Download](https://img.shields.io/badge/Direct_Download-www.oneappdock.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.oneappdock.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-gray?style=for-the-badge)](LICENSE)
 
 <br/>
 
-[**Download Installer (.exe)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock-Setup-1.3.2-x64.exe) &nbsp;•&nbsp; [**Download Portable (.exe)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock.exe) &nbsp;•&nbsp; [**Download Source Code (.zip)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock-GitHub-Source-1.3.2.zip) &nbsp;•&nbsp; [**Official Website**](https://www.oneappdock.com/)
+### 🌐 Direct Download from Official Website: [**www.oneappdock.com**](https://www.oneappdock.com/)
+
+[**Windows Installer (.exe)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Setup-1.3.4-x64.exe) &nbsp;•&nbsp; [**Windows Portable (.exe)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Portable-1.3.4-x64.exe) &nbsp;•&nbsp; [**macOS (Apple Silicon)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-arm64.zip) &nbsp;•&nbsp; [**macOS (Intel)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-x64.zip) &nbsp;•&nbsp; [**Linux (.deb)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-amd64.deb) &nbsp;•&nbsp; [**Linux (.tar.gz)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.tar.gz)
 
 </div>
 
@@ -22,9 +24,9 @@
 
 ## 🌟 Overview
 
-**OneAppDock** is a modern, high-performance desktop workspace for Windows that consolidates all your web applications, communication tools, and multi-account services into a single clean interface. 
+**OneAppDock** is a modern, high-performance desktop workspace that unifies all your web applications, communication tools, and multi-account services into a single clean dock. Available across **Windows**, **macOS**, **Linux**, and **Android**.
 
-Stop switching between dozens of messy browser tabs and separate browser profiles. With OneAppDock, each app runs in its own isolated environment with dedicated proxy configurations, custom themes, and paired service tabs.
+Stop switching between dozens of messy browser tabs and conflicting profiles. With OneAppDock, each app runs in its own isolated environment with dedicated proxy configurations, custom themes, and paired service tabs.
 
 ---
 
@@ -64,10 +66,13 @@ Stop switching between dozens of messy browser tabs and separate browser profile
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features in 1.3.4
 
-- 👥 **Multiple Isolated Accounts**: Add multiple accounts for the same service (e.g. personal Gmail, work Gmail, client WhatsApp). Cookies, sessions, and storage remain strictly separated.
-- 🛡️ **Per-Account Proxy Routing**: Configure independent HTTP, HTTPS, or SOCKS5 proxies per account. No traffic leaks — if a proxy fails, OneAppDock never silently falls back to direct unproxied connections.
+- 🏠 **Universal Home Button**: Instant one-click return to the service homepage across all apps and tabs.
+- 🎙️ **Full WhatsApp Voice Support**: Dedicated media grants, audio device handler, unthrottled background playback, and conditional WebRTC UDP policy.
+- 🔔 **Native Windows Notification Focus**: Clicking notifications seamlessly brings OneAppDock to front.
+- 👥 **Multiple Isolated Accounts**: Add multiple accounts for the same service (e.g. personal Gmail, work Gmail, client WhatsApp) with zero session interference.
+- 🛡️ **Per-Account Proxy Routing**: Configure independent HTTP, HTTPS, or SOCKS5 proxies per account. No traffic leaks — failed proxies never silently fall back to direct connections.
 - 🔐 **Hardware-Grade Credential Protection**: Sensitive proxy passwords and access keys are encrypted using Windows Data Protection API (DPAPI).
 - 🧩 **Paired Service Tabs & Split View**: Group companion services together (e.g. Facebook & Messenger, Google & Calendar) and switch or split view with a single click.
 - ⚡ **Optimized Native Viewports**: Native window resizing updates bounds smoothly without tearing, flickering, or re-initializing sessions.
@@ -76,29 +81,22 @@ Stop switching between dozens of messy browser tabs and separate browser profile
 
 ---
 
-## 📦 Downloads & Installation
+## 📦 Multi-Platform Downloads
 
-| Package | Type | Description | Link |
+> **Direct website downloads available at: [https://www.oneappdock.com/](https://www.oneappdock.com/)**
+
+| Platform | Package | Description | Download |
 | :--- | :--- | :--- | :--- |
-| **`OneAppDock-Setup-1.3.2-x64.exe`** | Installer | Standard Windows 64-bit installer with desktop and Start Menu shortcuts. | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock-Setup-1.3.2-x64.exe) |
-| **`OneAppDock.exe`** | Portable | Standalone executable. Run directly from any folder or USB drive without installation. | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock.exe) |
-| **`OneAppDock-GitHub-Source-1.3.2.zip`** | Source Code | Complete application source tree, build workflows, and test suites. | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock-GitHub-Source-1.3.2.zip) |
-| **`OneAppDock-Screenshots.zip`** | Media Kit | Full-resolution screenshot bundle of the application interface. | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.2/OneAppDock-Screenshots.zip) |
-
-### ℹ️ First-Time Windows Installation Note
-Because this build is currently unsigned with a commercial EV certificate:
-1. Windows Defender SmartScreen may display: *"Windows protected your PC"*.
-2. Click **"More info"**.
-3. Click **"Run anyway"** to launch the installer or portable app.
-
----
-
-## 💻 System Requirements
-
-- **Operating System**: Windows 10 (version 1809 or higher) / Windows 11 (64-bit)
-- **Memory**: Minimum 4 GB RAM (8 GB recommended for multiple concurrent accounts)
-- **Disk Space**: ~250 MB free space
-- **Network**: Broadband internet connection for web apps and proxies
+| **Windows** | `OneAppDock-Setup-1.3.4-x64.exe` | Standard Windows x64 installer | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Setup-1.3.4-x64.exe) |
+| **Windows** | `OneAppDock-Portable-1.3.4-x64.exe` | Portable standalone executable | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Portable-1.3.4-x64.exe) |
+| **Windows** | Microsoft Store | Certified Store package | [Get from Microsoft](https://apps.microsoft.com/detail/9nsz4xc8zwf3?hl=en-US&gl=BZ) |
+| **macOS** | `OneAppDock-1.3.4-mac-arm64.zip` | Apple Silicon (M1/M2/M3/M4) | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-arm64.zip) |
+| **macOS** | `OneAppDock-1.3.4-mac-x64.zip` | Intel Macs | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-x64.zip) |
+| **Linux** | `OneAppDock-1.3.4-linux-amd64.deb` | Debian / Ubuntu package | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-amd64.deb) |
+| **Linux** | `OneAppDock-1.3.4-linux-x64.tar.gz` | Universal Linux Tarball | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.tar.gz) |
+| **Linux** | `OneAppDock-1.3.4-linux-x64.zip` | Portable Linux Zip | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.zip) |
+| **Android** | APK Download | Android mobile app | [Download APK](https://www.oneappdock.com/) |
+| **Media Kit** | `OneAppDock-Screenshots.zip` | Full high-res UI screenshots (`1440x960`) | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Screenshots.zip) |
 
 ---
 
