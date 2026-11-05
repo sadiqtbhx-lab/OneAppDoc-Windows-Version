@@ -8,7 +8,7 @@
 **Multiple accounts, multiple proxies, zero hassle.**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.oneappdock.com/)
-[![Latest Release](https://img.shields.io/badge/Release-v1.3.4-7c3aed?style=for-the-badge&logo=github)](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases)
+[![Latest Release](https://img.shields.io/badge/Release-v1.3.4-7c3aed?style=for-the-badge&logo=github)](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases)
 [![Direct Website Download](https://img.shields.io/badge/Direct_Download-www.oneappdock.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.oneappdock.com/)
 [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Certified-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://apps.microsoft.com/detail/9nsz4xc8zwf3?hl=en-US&gl=BZ)
 [![APKPure](https://img.shields.io/badge/APKPure-Android%20v1.0.6-00ba7c?style=for-the-badge&logo=android&logoColor=white)](https://apkpure.com/oneappdock/com.oneappdock.app)
@@ -17,7 +17,7 @@
 
 ### 🌐 Direct Download from Official Website: [**www.oneappdock.com**](https://www.oneappdock.com/)
 
-[**Windows Installer (.exe)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Setup-1.3.4-x64.exe) &nbsp;•&nbsp; [**Windows Portable (.exe)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Portable-1.3.4-x64.exe) &nbsp;•&nbsp; [**macOS (Apple Silicon)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-arm64.zip) &nbsp;•&nbsp; [**macOS (Intel)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-x64.zip) &nbsp;•&nbsp; [**Linux (.deb)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-amd64.deb) &nbsp;•&nbsp; [**Linux (.tar.gz)**](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.tar.gz) &nbsp;•&nbsp; [**Android APK**](https://apkpure.com/oneappdock/com.oneappdock.app)
+[**Windows Installer (.exe)**](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-Setup-1.3.4-x64.exe) &nbsp;•&nbsp; [**Windows Portable (.exe)**](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-Portable-1.3.4-x64.exe) &nbsp;•&nbsp; [**macOS (Apple Silicon)**](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-arm64.zip) &nbsp;•&nbsp; [**macOS (Intel)**](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-x64.zip) &nbsp;•&nbsp; [**Linux (.deb)**](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-amd64.deb) &nbsp;•&nbsp; [**Linux (.tar.gz)**](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.tar.gz) &nbsp;•&nbsp; [**Android APK**](https://apkpure.com/oneappdock/com.oneappdock.app)
 
 </div>
 
@@ -114,16 +114,16 @@ Experience the same power of isolated accounts, custom proxies, and instant dock
 
 | Platform | Package | Description | Download |
 | :--- | :--- | :--- | :--- |
-| **Windows** | `OneAppDock-Setup-1.3.4-x64.exe` | Standard Windows x64 installer | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Setup-1.3.4-x64.exe) |
-| **Windows** | `OneAppDock-Portable-1.3.4-x64.exe` | Portable standalone executable | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Portable-1.3.4-x64.exe) |
+| **Windows** | `OneAppDock-Setup-1.3.4-x64.exe` | Standard Windows x64 installer | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-Setup-1.3.4-x64.exe) |
+| **Windows** | `OneAppDock-Portable-1.3.4-x64.exe` | Portable standalone executable | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-Portable-1.3.4-x64.exe) |
 | **Windows** | Microsoft Store | Official Certified Store App | [Get from Microsoft](https://apps.microsoft.com/detail/9nsz4xc8zwf3?hl=en-US&gl=BZ) |
-| **macOS** | `OneAppDock-1.3.4-mac-arm64.zip` | Apple Silicon (M1/M2/M3/M4) | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-arm64.zip) |
-| **macOS** | `OneAppDock-1.3.4-mac-x64.zip` | Intel Macs | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-x64.zip) |
-| **Linux** | `OneAppDock-1.3.4-linux-amd64.deb` | Debian / Ubuntu package | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-amd64.deb) |
-| **Linux** | `OneAppDock-1.3.4-linux-x64.tar.gz` | Universal Linux Tarball | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.tar.gz) |
-| **Linux** | `OneAppDock-1.3.4-linux-x64.zip` | Portable Linux Zip | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.zip) |
+| **macOS** | `OneAppDock-1.3.4-mac-arm64.zip` | Apple Silicon (M1/M2/M3/M4) | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-arm64.zip) |
+| **macOS** | `OneAppDock-1.3.4-mac-x64.zip` | Intel Macs | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-mac-x64.zip) |
+| **Linux** | `OneAppDock-1.3.4-linux-amd64.deb` | Debian / Ubuntu package | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-amd64.deb) |
+| **Linux** | `OneAppDock-1.3.4-linux-x64.tar.gz` | Universal Linux Tarball | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.tar.gz) |
+| **Linux** | `OneAppDock-1.3.4-linux-x64.zip` | Portable Linux Zip | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-1.3.4-linux-x64.zip) |
 | **Android** | APK Download (v1.0.6) | Mobile application | [Download APK](https://apkpure.com/oneappdock/com.oneappdock.app) |
-| **Media Kit** | `OneAppDock-Screenshots.zip` | Full high-res UI screenshots (`1440x960`) | [Download](https://github.com/sadiqtbh/OneAppDock-Windows-Version/releases/download/v1.3.4/OneAppDock-Screenshots.zip) |
+| **Media Kit** | `OneAppDock-Screenshots.zip` | Full high-res UI screenshots (`1440x960`) | [Download](https://github.com/sadiqtbh/OneAppDock-Multi-Platform-Version/releases/download/v1.3.4/OneAppDock-Screenshots.zip) |
 
 ---
 
